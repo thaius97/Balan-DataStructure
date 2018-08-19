@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Balan.cpp
+  Generating Code...
+c:\users\admin\desktop\1560704\balan\balan.cpp(172): warning C4715: 'Tinh': not all control paths return a value
+  Balan.vcxproj -> C:\Users\Admin\Desktop\1560704\Debug\Balan.exe
+  Balan.vcxproj -> C:\Users\Admin\Desktop\1560704\Debug\Balan.pdb (Full PDB)
